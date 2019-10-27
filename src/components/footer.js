@@ -1,5 +1,5 @@
 import React/*, {useState}*/ from "react"
-import { Col, Row } from "reactstrap"
+import {Col, Button, Row} from "reactstrap"
 import { Link } from "gatsby"
 
 
@@ -7,7 +7,8 @@ const Footer = () => (
   <div className="site-footer">
     <Row>
       <Col md='4'>
-        <Link to="/tags">Tags</Link>
+        <Button color="link"><Link to="/tags">Tags</Link></Button>
+        <Button color="link"><Link to="/team">Team</Link></Button>
       </Col>
       <Col md='4'>
         <h4 className="text-center">
