@@ -37,6 +37,13 @@ module.exports = {
     'gatsby-plugin-sass',
     'gatsby-plugin-catch-links',
     'gatsby-transformer-remark',
+    {
+      resolve: `gatsby-source-instagram`,
+      options: {
+        // type: `user-profile`,
+        username: `davincibot_pulv`,
+      },
+    },
     // this (optional) plugin enables Progressive Web App + Offline functionality
     // To learn more, visit: https://gatsby.dev/offline
     // 'gatsby-plugin-offline',

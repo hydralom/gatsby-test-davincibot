@@ -44,7 +44,7 @@ export const authorQuery = graphql`
                         tags
                         image{
                             childImageSharp{
-                                fluid(maxWidth: 150, maxHeight:100){
+                                fluid(maxWidth: 500, maxHeight:500){
                                     ...GatsbyImageSharpFluid
                                 }
                             }
@@ -59,7 +59,7 @@ export const authorQuery = graphql`
         }
         file(relativePath: { eq: $imageUrl }){
             childImageSharp{
-                fluid(maxWidth: 300, maxHeight:100){
+                fluid(maxWidth: 300, maxHeight:500){
                     ...GatsbyImageSharpFluid
                 }
             }
