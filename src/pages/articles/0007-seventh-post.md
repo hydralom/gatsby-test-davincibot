@@ -2,7 +2,7 @@
 title : 'Seventh Post - Jean-Claude Van Damme'
 date: 2019-10-26 23:30
 author: 'DVB Team'
-image: ../../images/favicon.png
+image: ../../images/code.jpg
 tags:
 - tutorial
 ---

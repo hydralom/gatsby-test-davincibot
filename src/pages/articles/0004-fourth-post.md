@@ -2,7 +2,7 @@
 title : 'Fourth Post - CSS'
 date: 2019-10-23 20:15
 author: 'John Doe'
-image: ../../images/favicon.png
+image: ../../images/code.jpg
 tags:
 - code
 - design

@@ -2,7 +2,7 @@
 title : 'Sixth Post - Pouet'
 date: 2019-10-24 19:30
 author: 'DVB Team'
-image: ../../images/favicon.png
+image: ../../images/code.jpg
 tags:
 - pouet
 ---

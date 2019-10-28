@@ -2,7 +2,7 @@
 title : 'Third Post - CSS'
 date: 2019-10-22 19:30
 author: 'Test man'
-image: ../../images/idk_what_the_fuk_is_that.jpg
+image: ../../images/code.jpg
 tags:
 - code
 - design

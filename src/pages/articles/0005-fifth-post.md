@@ -2,7 +2,7 @@
 title : 'Fifth Post - CSS'
 date: 2019-10-23 20:30
 author: 'Jane Majijuana'
-image: ../../images/favicon.png
+image: ../../images/code.jpg
 tags:
 - pouet
 ---
