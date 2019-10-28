@@ -35,7 +35,7 @@ const Footer = () => (
               </a>
             </li>
             <li>
-              <a href="https://www.linkedin.com/company-beta/11144151/" target="_blank" rel="noopener noreferrer"
+              <a href="https://www.linkedin.com/company/davincibot/" target="_blank" rel="noopener noreferrer"
                  className="linkedin">
                 <i className="fab fa-linkedin-in fa-2x"></i>
               </a>
